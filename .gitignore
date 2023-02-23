@@ -1,1 +1,4 @@
 03-modulos/nativos/build/
+04-paquetes/npm/node_modules/
+04-paquetes/modulo/utils/node_modules/
+04-paquetes/modulo/utils/*.jpg
