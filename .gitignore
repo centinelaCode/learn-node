@@ -3,5 +3,6 @@
 04-paquetes/npm/node_modules/
 04-paquetes/modulo/utils/node_modules/
 07-herramientas/scrapping/node_modules/
+07-herramientas/automatizacion/node_modules/
 
 04-paquetes/modulo/utils/*.jpg
